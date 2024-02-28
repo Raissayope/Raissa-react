@@ -1,0 +1,9 @@
+.footer{
+  height: 100px;
+  background-color: #52428C;
+  display: flex;
+}
+
+.footer p{
+    color: white;
+}
